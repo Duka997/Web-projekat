@@ -1,0 +1,7 @@
+INDEX VERSION 1.4+C:\Users\Duka\Desktop\OglasiProj\.metadata\.plugins\org.eclipse.wst.jsdt.core\indexes
+3633261867.index
+4178134244.index
+2737852426.index
+2200576941.index
+1717758423.index
+2238789901.index

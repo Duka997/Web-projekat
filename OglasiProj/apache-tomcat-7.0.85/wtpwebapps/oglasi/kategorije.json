@@ -1,0 +1,30 @@
+{
+	"Za ljubimce":
+		{
+			"naziv":"Za ljubimce",
+			"opis":"Sve za ljubimce",
+			"oglasi":["Cinija"],
+			"aktivan":true
+		},
+	"Za dvoriste":
+		{
+			"naziv":"Za dvoriste",
+			"opis":"Sve potrebno za dvoriste",
+			"oglasi":["Suncobran"],
+			"aktivan":true
+		},
+	"Svi Oglasi":
+		{
+			"naziv":"Svi Oglasi",
+			"opis":"Opis za kategoriju svi oglasi",
+			"oglasi":[],
+			"aktivan":true
+		},
+	"Za kucu":
+		{
+			"naziv":"Za kucu",
+			"opis":"Sve potrebno za kucu",
+			"oglasi":["Kauc","Fotelja"],
+			"aktivan":true
+		}
+}

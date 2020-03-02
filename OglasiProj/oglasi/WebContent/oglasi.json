@@ -1,0 +1,65 @@
+{
+	"Cinija":
+		{
+			"naziv":"Cinija",
+			"cena":500.0,
+			"opis":"500ml",
+			"like":[],
+			"dislike":[],
+			"slika":"/oglasi/Images/29372-228x228.jpg",
+			"datumPostavljanja":"16/12/2019",
+			"datumIsticanja":"16/12/2020",
+			"aktivan":true,
+			"recenzije":[],
+			"grad":"Zrenjanin"
+		},
+	"Suncobran":
+		{
+			"naziv":"Suncobran",
+			"cena":15000.0,
+			"opis":"Nije busan",
+			"like":[],
+			"dislike":[],
+			"slika":"/oglasi/Images/35883.jpg",
+			"datumPostavljanja":"16/12/2019",
+			"datumIsticanja":"16/12/2020",
+			"aktivan":true,
+			"recenzije":[],
+			"grad":"Subotica"
+		},
+	"Fotelja":
+		{
+			"naziv":"Fotelja",
+			"cena":22000.0,
+			"opis":"Zuta fotelja",
+			"like":["kupac1"],
+			"dislike":[],
+			"slika":"/oglasi/Images/fotelja.jpg",
+			"datumPostavljanja":"16/12/2019",
+			"datumIsticanja":"16/12/2020",
+			"aktivan":true,
+			"recenzije":[{	"oglas":"Fotelja",
+							"recenzent":"kupac1",
+							"naslov":"Problem",
+							"sadrzaj":"Nije zuta kao u oglasu",
+							"slika":"/oglasi/Images/oker.jpg",
+							"tacan":false,
+							"ispostovanDogovor":true,
+							"aktivan":true}],
+			"grad":"Smederevo"
+		},
+	"Kauc":
+		{
+			"naziv":"Kauc",
+			"cena":30000.0,
+			"opis":"Vrlo dobar kauc",
+			"like":[],
+			"dislike":[],
+			"slika":"/oglasi/Images/85859.jpg",
+			"datumPostavljanja":"16/12/2019",
+			"datumIsticanja":"16/12/2020",
+			"aktivan":true,
+			"recenzije":[],
+			"grad":"Pozega"
+		}
+}
